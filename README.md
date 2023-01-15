@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atlas-v
-- 👀 I’m interested in developing hardware interface applications for data aquistition and control
-- 🌱 I’m currently learning how to set up GUIs in python to interface with microcontrollers (RPi + Arduino)
-- 💞️ I’m looking to collaborate on applications involving signal processing, power analysis, HW I/O control
-- 📫 How to reach me; no link at this time
+- 👀 I’m interested in developing server applications for integrating ioT devices on LAN and creating automation systems (ex. TD ameritrade stockbot)
+- 🌱 I’m currently learning how to set up an apache server to manage local users and offer an application platform
+- 💞️ I’m looking to collaborate on applications involving signal processing, power analysis, ioT control 
+- 📫 How to reach me; rbaumann99@gmail.com
