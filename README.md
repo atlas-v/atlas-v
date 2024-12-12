@@ -22,3 +22,8 @@ Projects:
     <img src="https://skillicons.dev/icons?i=raspberrypi,ros&theme=light" />
   </a>
 </p>
+<p align="center">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=atlas-v&label=Views&color=3&icon=5&pretty=true" />
+</a>
+</p>
