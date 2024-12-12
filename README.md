@@ -12,13 +12,13 @@ Tech Used:
 </p>
 OS:
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=linux&theme=light" />
   </a>
 </p>
 Projects:
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=raspberrypi,ros&theme=light" />
   </a>
 </p>
