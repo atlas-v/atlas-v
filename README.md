@@ -7,7 +7,7 @@
 Tech Used:
 <p align="center">
   <a style="pointer-events: none;  cursor: default;">
-    <img src="https://skillicons.dev/icons?i=html,js,css,nodejs,postgresql,react,python&perline=3&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,js,css,nodejs,postgresql,react,python,cpp&perline=3&theme=light" />
   </a>
 </p>
 
