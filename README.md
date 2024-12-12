@@ -5,7 +5,8 @@
 - 📫 How to reach me; rbaumann99@gmail.com
 
 Tech Used:
-
-
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,nodejs,postgresql,react,python)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,css,nodejs,postgresql,react,python&perline=3&theme=light" />
+  </a>
+</p>
