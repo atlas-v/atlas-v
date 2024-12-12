@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on applications involving signal processing, power analysis, ioT control 
 - 📫 How to reach me; rbaumann99@gmail.com
 
+Tech Used:
+
 
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,nodejs,postgresql,react,python)](https://skillicons.dev)
 
