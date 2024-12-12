@@ -4,21 +4,21 @@
 - 💞️ I’m looking to collaborate on applications involving signal processing, power analysis, ioT control 
 - 📫 How to reach me; rbaumann99@gmail.com
 
-Tech Used:
+<p align="center">Tech Used:</p>
 <p align="center">
   <a style="pointer-events: none;  cursor: default;">
     <img src="https://skillicons.dev/icons?i=html,js,css,nodejs,postgresql,react,python,cpp&perline=3&theme=light" />
   </a>
 </p>
 
-OS:
+<p align="center">OS:</p>
 <p align="center">
   <a style="pointer-events: none;  cursor: default;">
     <img src="https://skillicons.dev/icons?i=linux&theme=light" />
   </a>
 </p>
 
-Projects:
+<p align="center">Projects:</p>
 <p align="center">
   <a style="pointer-events: none;  cursor: default;">
     <img src="https://skillicons.dev/icons?i=raspberrypi,ros&theme=light" />
