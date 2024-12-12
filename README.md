@@ -5,4 +5,7 @@
 - 📫 How to reach me; rbaumann99@gmail.com
 
 Technologies Used:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<div>
+  [![My Skills](https://skillicons.dev/icons?i=html, js, css, nodejs, postgresql, react, javascript, python, apache)](https://skillicons.dev)
+</div>
+
