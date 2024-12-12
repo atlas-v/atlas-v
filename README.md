@@ -5,6 +5,5 @@
 - 📫 How to reach me; rbaumann99@gmail.com
 
 
-[![My Skills](https://skillicons.dev/icons?i=html, js, css, nodejs, postgresql, react, javascript, python)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,nodejs,postgresql,react,python)](https://skillicons.dev)
 
