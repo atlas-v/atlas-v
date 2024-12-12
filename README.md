@@ -6,7 +6,7 @@
 
 Tech Used:
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=html,js,css,nodejs,postgresql,react,python&perline=3&theme=light" />
   </a>
 </p>
