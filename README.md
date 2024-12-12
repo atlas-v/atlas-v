@@ -10,3 +10,15 @@ Tech Used:
     <img src="https://skillicons.dev/icons?i=html,js,css,nodejs,postgresql,react,python&perline=3&theme=light" />
   </a>
 </p>
+OS:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux&theme=light" />
+  </a>
+</p>
+Projects:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=raspberrypi,ros&theme=light" />
+  </a>
+</p>
