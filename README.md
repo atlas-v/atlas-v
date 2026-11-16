@@ -25,3 +25,12 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,go,react,vite,postgresql,docker,git" />
   </a>
 </p>
+
+---
+
+### Core Technical Skills
+- **Robotics & Autonomy:** ROS 2, SLAM, LiDAR & 3D Point Cloud Processing, Sensor Fusion (IMU, GPS, Quadrature Encoders), Kinematic Motor Control, URDF/TF2
+- **Embedded & Hardware:** Zephyr RTOS, C++ (17/20), CMake, Raspberry Pi 5, RP2040 / Pico, ESP32, HAL Configuration, UART/SPI/I2C Serial Protocols, AutoCAD Electrical
+- **Machine Vision & Industrial Controls:** 64MP & 3D Spatial Vision Pipelines (Basler, OpenCV), PLC Architecture, HMI Design, High-Speed Pick-and-Place Sequencing
+- **Software & Infrastructure:** Python, Go (Golang), Node.js, JavaScript, React, Vite, PostgreSQL, TCP/IP Sockets, REST APIs, Linux Administration, Docker, Git
+
