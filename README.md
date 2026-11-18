@@ -32,6 +32,13 @@ Outside work I'm building **Sentinel**, an autonomous UGV, to go deeper on ROS 2
 - **Autonomy:** ROS 2 mission coordinator node handling waypoint missions, live status publishing, and remote abort
 - **Ground station:** React + MapLibre web UI with an offline tile server, a waypoint mission planner, and a live map of the robot and its active mission, all self-hosted in Docker
 
+*Sentinel source is private; code walkthroughs available on request.*
+ 
+**📂 Open Source: [ros2_nav_stack](https://github.com/atlas-v/ros2_nav_stack)**
+- C++ ROS 2 navigation pipeline: kinematic bicycle model, cubic Bézier planner, and Pure Pursuit / Stanley controllers behind a shared interface
+- `/follow_path` action server with runtime controller switching, unit tests, CI, and cross-track-error benchmarks comparing both controllers
+
+
 **🧪 Pulse Robotics** ([pulserobotics.com](https://pulserobotics.com))
 - Personal hub for my robotics projects and side interests in financial modeling and web scraping
 - Daily data pipeline that pulls market data for every available ticker into a self-hosted PostgreSQL database
