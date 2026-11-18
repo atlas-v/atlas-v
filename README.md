@@ -1,4 +1,4 @@
-### Hi there, I'm ([@atlas-v](https://github.com)) 👋
+### Hi there, I'm (@atlas-v) 👋
 
 **Robotics & Controls Engineer** at JR Automation, building machine vision systems and robotic cells for Fortune 500 manufacturers.<br />
 Outside work I'm building **Sentinel**, an autonomous UGV, to go deeper on ROS 2, embedded firmware, and navigation.
