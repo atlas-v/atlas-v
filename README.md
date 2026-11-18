@@ -1,4 +1,4 @@
-### Hi there, I'm (@atlas-v) 👋
+### Hi there, I'm Ryan 👋
 
 **Robotics & Controls Engineer** at JR Automation, building machine vision systems and robotic cells for Fortune 500 manufacturers.<br />
 Outside work I'm building **Sentinel**, an autonomous UGV, to go deeper on ROS 2, embedded firmware, and navigation.
@@ -66,11 +66,8 @@ Outside work I'm building **Sentinel**, an autonomous UGV, to go deeper on ROS 2
 
 ---
 
-
 ### Skills
-- **Robotics & Autonomy:** ROS 2 (nodes, topics, custom messages), mission planning, waypoint navigation, sensor integration (GPS, IMU, encoders)
-- **Control & Planning:** Kinematic modeling, pure pursuit, Stanley controller, closed-loop motor speed control, Bézier path smoothing, Valhalla routing
-- **Embedded:** Zephyr RTOS, C/C++, RP2040/RP2350, Raspberry Pi 5, UART/SPI/I2C
+- **Robotics & Embedded:** ROS 2 (nodes, topics, actions, services), Zephyr RTOS, C/C++, RP2040/RP2350, Raspberry Pi 5, UART/SPI/I2C
 - **Machine Vision & Controls:** Basler, OpenCV, 2D/3D inspection, PLC programming, HMI design, AutoCAD Electrical
-- **Software:** Python, JavaScript/Node.js, React, Vite, PostgreSQL, TCP/IP sockets, REST APIs, Linux, Docker, Git
+- **Software:** Python, JavaScript/Node.js, React, PostgreSQL, TCP/IP sockets, REST APIs, Linux, Docker, Git
 
