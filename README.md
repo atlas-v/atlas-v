@@ -1,14 +1,29 @@
 ### Hi there, I'm ([@atlas-v](https://github.com)) 👋
 
-**Robotics & Controls Engineer** bridging low-level real-time hardware control, **ROS 2**, and high-resolution machine vision. Experienced in taking complex robotic cells, 3D perception pipelines, and distributed embedded architectures from prototype to production for Fortune 500 manufacturing.
+**Robotics & Controls Engineer** at JR Automation, building machine vision systems and robotic cells for Fortune 500 manufacturers.<br />
+Outside work I'm building **Sentinel**, an autonomous UGV, to go deeper on ROS 2, embedded firmware, and navigation.
 
-- 🤖 **Autonomous Systems & ROS 2:** Currently architecting **Sentinel**, an autonomous UGV built on **ROS 2**, combining a **Raspberry Pi 5** high-level compute brain with a deterministic **Zephyr RTOS** microcontroller.
-- 🧭 **Perception, Localization & Control:** Hands-on with multi-sensor fusion (IMU orientation matrices, GPS, quadrature encoders), kinematic motor speed-loop control, LiDAR, and 3D point cloud spatial registration.
-- 🏭 **Production Robotics & Machine Vision:** Engineered enterprise automation systems including 64MP micrometer-scale defect inspection pipelines, 3D component registration cells, and high-speed pick-and-place sequencing (<1 defect per 300 cycles).
-- ⚙️ **System Architecture & Tooling:** Building scalable C++, Python, and Go infrastructure—from custom HAL firmware configurations and TCP/IP device sockets to self-hosted Linux/PostgreSQL telemetry pipelines ([Pulse Robotics](https://pulserobotics.com)).
-- 🌐 **Portfolio & Projects:** [ryanbaumann.me](https://ryanbaumann.me) | [pulserobotics.com](https://pulserobotics.com)
-- 🤝 **Open to collaborating on:** ROS 2 nodes & middleware, Zephyr RTOS / C++ firmware, SLAM / LiDAR point cloud pipelines, and sensor fusion.
-- 📫 **Reach me:** rbaumann99@gmail.com
+**🏭 Professional (JR Automation)**
+- Machine vision inspection, including 64MP micrometer-scale defect detection and 3D component registration
+- New robotic cell development and pick-and-place sequencing (<1 defect per 300 cycles)
+- PLC/HMI work, plus Python and Node.js tooling that talks to devices over TCP sockets
+
+**🤖 Autonomous Systems & ROS 2: Sentinel UGV**
+- **Architecture:** Raspberry Pi 5 running ROS 2 for autonomy, paired with a Pico 2W (RP2350) real-time motor/sensor controller on Zephyr RTOS
+- **State estimation:** GPS / IMU / wheel-encoder integration feeding live robot pose
+- **Control:** Kinematic vehicle modeling, closed-loop motor speed control, and pure pursuit / Stanley path tracking
+- **Planning:** Valhalla road/path routing with Bézier curve smoothing for drivable paths
+- **Autonomy:** ROS 2 mission coordinator node handling waypoint missions, live status publishing, and remote abort
+- **Ground station:** React + MapLibre web UI with an offline tile server, a waypoint mission planner, and a live map of the robot and its active mission, all self-hosted in Docker
+
+**🧪 Pulse Robotics** ([pulserobotics.com](https://pulserobotics.com))
+- Personal hub for my robotics projects and side interests in financial modeling and web scraping
+- Daily data pipeline that pulls market data for every available ticker into a self-hosted PostgreSQL database
+
+
+**🌱 Currently learning:** Go, LiDAR/SLAM
+ 
+🌐 [ryanbaumann.me](https://ryanbaumann.me) · 📫 rbaumann99@gmail.com
 
 ---
 
@@ -28,9 +43,11 @@
 
 ---
 
-### Core Technical Skills
-- **Robotics & Autonomy:** ROS 2, SLAM, LiDAR & 3D Point Cloud Processing, Sensor Fusion (IMU, GPS, Quadrature Encoders), Kinematic Motor Control, URDF/TF2
-- **Embedded & Hardware:** Zephyr RTOS, C++ (17/20), CMake, Raspberry Pi 5, RP2040 / Pico, ESP32, HAL Configuration, UART/SPI/I2C Serial Protocols, AutoCAD Electrical
-- **Machine Vision & Industrial Controls:** 64MP & 3D Spatial Vision Pipelines (Basler, OpenCV), PLC Architecture, HMI Design, High-Speed Pick-and-Place Sequencing
-- **Software & Infrastructure:** Python, Go (Golang), Node.js, JavaScript, React, Vite, PostgreSQL, TCP/IP Sockets, REST APIs, Linux Administration, Docker, Git
+
+### Skills
+- **Robotics & Autonomy:** ROS 2 (nodes, topics, custom messages), mission planning, waypoint navigation, sensor integration (GPS, IMU, encoders)
+- **Control & Planning:** Kinematic modeling, pure pursuit, Stanley controller, closed-loop motor speed control, Bézier path smoothing, Valhalla routing
+- **Embedded:** Zephyr RTOS, C/C++, RP2040/RP2350, Raspberry Pi 5, UART/SPI/I2C
+- **Machine Vision & Controls:** Basler, OpenCV, 2D/3D inspection, PLC programming, HMI design, AutoCAD Electrical
+- **Software:** Python, JavaScript/Node.js, React, Vite, PostgreSQL, TCP/IP sockets, REST APIs, Linux, Docker, Git
 
