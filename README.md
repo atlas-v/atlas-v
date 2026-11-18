@@ -9,6 +9,10 @@ Outside work I'm building **Sentinel**, an autonomous UGV, to go deeper on ROS 2
 - PLC/HMI work, plus Python and Node.js tooling that talks to devices over TCP sockets
 
 **🤖 Autonomous Systems & ROS 2: Sentinel UGV**
+
+<img width="560" height="575" alt="Sentinel_Mission_Start" src="https://github.com/user-attachments/assets/a90c1986-3813-4649-a65f-36d643db338a" />
+<img width="640" height="663" alt="Sentinel_Mission_Running" src="https://github.com/user-attachments/assets/864d963e-dead-4c25-b75d-e76a54ca812d" />
+
 - **Architecture:** Raspberry Pi 5 running ROS 2 for autonomy, paired with a Pico 2W (RP2350) real-time motor/sensor controller on Zephyr RTOS
 - **State estimation:** GPS / IMU / wheel-encoder integration feeding live robot pose
 - **Control:** Kinematic vehicle modeling, closed-loop motor speed control, and pure pursuit / Stanley path tracking
